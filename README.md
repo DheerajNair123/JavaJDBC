@@ -8,6 +8,12 @@ This guide provides step-by-step instructions for setting up Java JDBC connectiv
 - Maven build tool
 - IDE (IntelliJ IDEA, Eclipse, etc.)
 
+jar file
+in terminal
+java -jar <filename>.jar
+
+
+
 ## Project Structure
 ```
 your-project/
