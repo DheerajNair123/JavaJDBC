@@ -4,9 +4,6 @@
 This guide provides step-by-step instructions for setting up Java JDBC connectivity with H2 database in your project.
 
 ## Prerequisites
-- Java Development Kit (JDK) 8 or higher
-- Maven build tool
-- IDE (IntelliJ IDEA, Eclipse, etc.)
 
 - jar file
 - in terminal
